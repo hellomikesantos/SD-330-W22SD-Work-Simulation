@@ -1,0 +1,1 @@
+Apache is important basically because it is responsible in sending requests back and forth to the client/visitor. 
